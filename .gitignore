@@ -1,0 +1,12 @@
+# Python venv
+venv/
+
+# Data (large)
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
