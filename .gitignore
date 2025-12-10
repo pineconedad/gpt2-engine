@@ -1,8 +1,12 @@
+
 # Python venv
 venv/
 
 # Data (large)
 data/
+
+# Model checkpoints (large)
+checkpoints/
 
 # Python caches
 __pycache__/
@@ -10,3 +14,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Magikarp test results (not main results)
+magikarp-main/results/

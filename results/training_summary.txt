@@ -1,0 +1,12 @@
+GPT-2 Medium Training Summary
+========================================
+
+Total Steps: 129,800
+Total Tokens: 8.51B
+Initial Loss: 5.5806
+Final Loss: 3.8370
+Min Loss: 2.1215
+Mean Loss: 3.0824
+Loss Reduction: 31.2%
+Peak Learning Rate: 3.00e-04
+Final Learning Rate: 9.32e-05
