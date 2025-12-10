@@ -1,0 +1,1 @@
+step,epoch,tokens_seen,loss,learning_rate,time_per_step,gpu_memory_gb

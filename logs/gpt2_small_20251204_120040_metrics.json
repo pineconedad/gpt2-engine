@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "total_steps": 79,
+    "total_tokens": 5177344,
+    "total_time_seconds": 279.95692014694214,
+    "model_size": "small",
+    "n_parameters": 124439808
+  },
+  "metrics": []
+}

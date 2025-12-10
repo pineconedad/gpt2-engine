@@ -1,0 +1,20 @@
+{
+  "model_size": "medium",
+  "block_size": 1024,
+  "batch_size": 4,
+  "gradient_accumulation": 16,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.1,
+  "warmup_steps": 2000,
+  "max_epochs": 1,
+  "mixed_precision": true,
+  "gradient_checkpointing": false,
+  "save_every_n_steps": 5000,
+  "log_every_n_steps": 100,
+  "eval_every_n_steps": 1000,
+  "seed": 42,
+  "resume": "checkpoints/step_95000",
+  "no_mixed_precision": false,
+  "data_dir": "D:\\Thesis 2510674\\gpt2-engine-main\\data\\tokenized",
+  "max_shards": null
+}
